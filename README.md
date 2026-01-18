@@ -24,7 +24,8 @@ HTML | CSS | Bootstrap | JavaScript | Nodejs | Expressjs | Sqlite | SMTP | API |
 
 ## Authors
 
-- [@GauravPathak](https://github.com/GauravPathak77)
+- [@Akash Soni](https://github.com/AkkiSoni9648)
+
 ## Deployment
 
 Visit the live project
@@ -39,5 +40,6 @@ password: admin.mail182@gmail.com
 
 
 ## 🚀 About Me
-I'm a full stack developer...
+Hi! I'm Akash Soni, a Computer Science (AI) student who loves turning ideas into code.  
+I enjoy working on machine learning projects, web applications, and improving my problem-solving skills through DSA.
 
