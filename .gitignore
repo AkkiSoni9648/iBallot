@@ -1,4 +1,4 @@
-node_modules/
+# ignore secrets
+*.json
 .env
-.hintrc
-.vscode
+node_modules/
