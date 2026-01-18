@@ -22,7 +22,6 @@ const ejs = require('ejs');
 let n = (Math.random() + 1) * 1000;
 const otp = Math.floor(n);
 let uvoterId = null;
-const connect = require("connect");
 const SQLiteStore = require('connect-sqlite3')(session);
 const db = new sqlite3.Database("./assets/test.db", sqlite3.OPEN_READWRITE, (err) => {
   if (err) return console.log(err.message);
